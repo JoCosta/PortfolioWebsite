@@ -5,3 +5,7 @@ The website implements responsive design so that it displays perfectly in all ki
 
 http://danielealoi.com/
 
+![alt text](portfolioWeb1.png) ![alt text](portfolioWeb2.png)
+
+
+
